@@ -1,2 +1,3 @@
 print("Chào các bạn")
-print("em chào thầy")
+n = input(" loi chao cho hom nay: ")
+print(n)
